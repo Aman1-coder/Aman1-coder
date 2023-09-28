@@ -59,3 +59,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aman1-coder&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
+
+
+[![An image of @aman1coder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aman1coder)](https://holopin.io/@aman1coder)
